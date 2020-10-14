@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sprint25_グループワーク_データ_ラズパイ撮影_1本ver_high</folder>
+	<filename>hey_tea_4.jpg</filename>
+	<path>/Users/takahashihideyuki/dive/データ格納/Sprint25_グループワーク/Sprint25_グループワーク_データ_ラズパイ撮影_1本ver_high/hey_tea_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hey_tea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>16</ymin>
+			<xmax>173</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>
