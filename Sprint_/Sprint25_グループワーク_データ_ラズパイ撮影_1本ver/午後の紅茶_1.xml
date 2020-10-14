@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sprint25_グループワーク_データ_ラズパイ撮影_1本ver</folder>
+	<filename>午後の紅茶_1.jpg</filename>
+	<path>/Users/takahashihideyuki/dive/データ格納/Sprint25_グループワーク/Sprint25_グループワーク_データ_ラズパイ撮影_1本ver/午後の紅茶_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>午後の紅茶</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>115</ymin>
+			<xmax>168</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

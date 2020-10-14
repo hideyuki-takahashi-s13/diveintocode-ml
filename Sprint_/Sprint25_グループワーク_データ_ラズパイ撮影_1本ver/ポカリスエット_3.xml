@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data3</folder>
+	<filename>ポカリスエット_3.jpg</filename>
+	<path>C:\Users\Kei\Desktop\data3\ポカリスエット_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ポカリスエット</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>119</ymin>
+			<xmax>174</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

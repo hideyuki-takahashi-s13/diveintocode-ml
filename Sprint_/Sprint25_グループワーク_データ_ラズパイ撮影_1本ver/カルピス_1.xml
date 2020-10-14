@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data3</folder>
+	<filename>カルピス_1.jpg</filename>
+	<path>C:\Users\Kei\Desktop\data3\カルピス_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>カルピス</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>115</ymin>
+			<xmax>170</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

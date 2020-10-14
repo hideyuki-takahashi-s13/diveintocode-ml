@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sprint25_グループワーク_データ_ラズパイ撮影_1本ver</folder>
+	<filename>コーラ_4.jpg</filename>
+	<path>/Users/takahashihideyuki/dive/データ格納/Sprint25_グループワーク/Sprint25_グループワーク_データ_ラズパイ撮影_1本ver/コーラ_4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>コーラ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>104</ymin>
+			<xmax>170</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>
